@@ -219,5 +219,5 @@
   </Tileset>
 
   <Tileset id="n" copy="z" path="scifi"/>
-  <Tileset id="p" copy="z" path="Elrick/K2/Orange" sound="8"/>
+  <Tileset id="p" copy="z" path="InnocenceStudios/K2/Orange" sound="8"/>
 </Data>
