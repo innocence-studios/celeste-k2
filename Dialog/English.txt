@@ -1,0 +1,2 @@
+Elrick_K2= K2
+Elrick_K2_Cassette= Cassette
