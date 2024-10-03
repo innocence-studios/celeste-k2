@@ -1,18 +1,11 @@
 - Name: K2
   Version: 0.0.1
   Dependencies:
-    - Name: AdventureHelper
-      Version: 1.5.8
-    - Name: BounceHelper
-      Version: 1.11.0
-    - Name: CommunalHelper
-      Version: 1.20.6
     - Name: Everest
+      Version: 1.5034.0
+    - Name: FactoryHelper
+      Version: 1.3.6
     - Name: FrostHelper
-      Version: 1.53.1
-    - Name: GravityHelper
-      Version: 1.2.19
+      Version: 1.55.2
     - Name: SorbetHelper
       Version: 1.3.1
-    - Name: VivHelper
-      Version: 1.14.8
