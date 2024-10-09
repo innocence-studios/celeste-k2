@@ -1,2 +1,3 @@
 InnocenceStudios_K2= K2
-InnocenceStudios_K2_BzztBzztLand= BZZZZZZZZZZZZZZZZT.........PAAF
+InnocenceStudios_K2_1_BzztBzztLand= Thunder Temple
+InnocenceStudios_K2_1_BzztBzztLand_Checkpoint_1= Entry
