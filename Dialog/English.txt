@@ -1,3 +1,5 @@
 InnocenceStudios_K2= K2
 InnocenceStudios_K2_1_BzztBzztLand= Thunder Temple
-InnocenceStudios_K2_1_BzztBzztLand_Checkpoint_1= Entry
+InnocenceStudios_K2_1_BzztBzztLand_10 = Entry
+InnocenceStudios_K2_1_BzztBzztLand_[] = Generator
+InnocenceStudios_K2_1_BzztBzztLand_[] = Race the Lightning
