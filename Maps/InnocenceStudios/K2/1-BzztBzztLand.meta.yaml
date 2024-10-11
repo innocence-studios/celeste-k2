@@ -12,3 +12,5 @@ Mountain:
     State: 3
     ShowCore: false
     Rotate: true
+    BackgroundMusicParams:
+        moon: 1
