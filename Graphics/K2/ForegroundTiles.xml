@@ -301,5 +301,5 @@
   </Tileset>
 
   <Tileset id="n" copy="z" path="scifi"/>
-  <Tileset id="q" copy="y" path="metallicFactory" sound="4"/>
+  <Tileset id="q" copy="y" path="K2/metallicFactory" sound="4"/>
 </Data>

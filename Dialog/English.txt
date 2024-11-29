@@ -1,5 +1,7 @@
-InnocenceStudios_K2= K2
-InnocenceStudios_K2_1_BzztBzztLand= Thunder Temple
-InnocenceStudios_K2_1_BzztBzztLand_TempleEntry= Entry
+K2= K2
+K2_1_BzztBzztLand= Thunder Temple
+K2_1_BzztBzztLand_C1TempleEntry= Entry
+K2_1_BzztBzztLand_C2Generator= Generator
 
-poem_InnocenceStudios_K2_1_BzztBzztLand_A= Roses are Red, Violets are blue, My ass is green, and yours is too
+
+poem_K2_1_BzztBzztLand_A= Roses are Red, Violets are blue, My ass is green, and yours is too
